@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "desc": "Don't Tap the Glass",
+        "imagem": "../../public/vinil/dttg.jpg",
+        "valor": "4610,16"
+    },
+    {
+        "id": 2,
+        "desc": "IGOR",
+        "imagem": "../../public/vinil/igor.jpg",
+        "valor": "3714,98"
+    },
+    {
+        "id": 3,
+        "desc": "WOLF",
+        "imagem": "../../public/vinil/wolf.jpg",
+        "valor": "2014,15"
+    },
+    {
+        "id": 4,
+        "desc": "Call Me If You Get Lost",
+        "imagem": "../../public/vinil/cmil.jpg",
+        "valor": "1168,61"
+    },
+    {
+        "id": 5,
+        "desc": "Chromakopia",
+        "imagem": "../../public/vinil/chorm.jpg",
+        "valor": "1887,76"
+    },
+    {
+        "id": 6,
+        "desc": "Cherry Bomb",
+        "imagem": "../../public/vinil/bomb.jpg",
+        "valor": "1663,02"
+    },
+    {
+        "id": 7,
+        "desc": "Flower Boy",
+        "imagem": "../../public/vinil/flby.jpg",
+        "valor": "1348,40"
+    },
+    {
+        "id": 8,
+        "desc": "slipknot ",
+        "imagem": "../../public/vinil/slpk.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 9,
+        "desc": "Nobody Can Live Forever",
+        "imagem": "../../public/vinil/nclf.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 10,
+        "desc": "DJavan LUZ",
+        "imagem": "../../public/vinil/luz.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 11,
+        "desc": "QUEEN II",
+        "imagem": "../../public/vinil/queen2.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 12,
+        "desc": "AND.. JUSTICE FOR ALL",
+        "imagem": "../../public/vinil/ajfa.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 13,
+        "desc": "Operation Doomsday",
+        "imagem": "../../public/vinil/op.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 14,
+        "desc": "Mm..Food",
+        "imagem": "../../public/vinil/mfo.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 15,
+        "desc": "Madvillain",
+        "imagem": "../../public/vinil/mdv.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 16,
+        "desc": "DAMN",
+        "imagem": "../../public/vinil/damn.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 17,
+        "desc": "Mr. Morale & the Big Steppers",
+        "imagem": "../../public/vinil/morale.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 18,
+        "desc": "Good Kid, M.A.A.D City",
+        "imagem": "../../public/vinil/gkmcty.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 19,
+        "desc": "Good Kid, M.A.A.D City",
+        "imagem": "../../public/vinil/gkmcty2.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 20,
+        "desc": "Graduation",
+        "imagem": "../../public/vinil/grda.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 21,
+        "desc": "My Beautiful Dark Twisted Fantasy",
+        "imagem": "../../public/vinil/fnsy.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 22,
+        "desc": "Máquina do Tempo",
+        "imagem": "../../public/vinil/mdtmp.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 23,
+        "desc": "The Dark Side of the Moon",
+        "imagem": "../../public/vinil/tdsm.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 24,
+        "desc": "paranoid",
+        "imagem": "../../public/vinil/par.jpg",
+        "valor": "0"
+    },
+    {
+        "id": 25,
+        "desc": "Abbey Road",
+        "imagem": "../../public/vinil/abby.jpg",
+        "valor": "0"
+    }
+]

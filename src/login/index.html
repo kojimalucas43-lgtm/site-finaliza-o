@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U=" crossorigin="anonymous"></script>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="formulario">
+        <div class="bola">
+            <img class="logo" src="../../public/smt/aavinil.jpg" alt="logo">
+        </div>
+
+        <div class="wrap-input-label">
+            <label for="nome">NOME:</label>
+            <input type="text" id="nome" placeholder="USUÁRIO">
+        </div>
+
+        <div class="wrap-input-label">
+            <label for="senha">SENHA:</label>
+            <input type="password" id="senha" placeholder="*******">
+            <div onclick="showPassword()">
+                <img src="../../public/smt/eye.png" alt="Senha" id="eye" class="eye" width="25px">
+            </div>
+        </div>
+
+        <button class="btn-login" onclick="login()">LOGIN</button>
+    </div>
+
+    <div class="error-div" id="error-modal">
+        <h3>ERRO: DADOS INCORRETOS</h3>
+        <button onclick="fecharError()">❌</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
