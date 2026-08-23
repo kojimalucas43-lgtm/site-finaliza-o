@@ -48,6 +48,8 @@ function gerar(){
                 <h1>PEDIDO CONFIRMADO</h1>
                 <h3>Agradecemos a sua compra e sua preferência.</h3>
                 <br>
+                <h3>O se podido vai ser entregue em sesi ltda, rua paula gomes</h3>
+                <br>
                 ${listaHtml}
                 <br>
                 <br>
