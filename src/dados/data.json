@@ -1,152 +1,146 @@
 [
     {
         "id": 1,
-        "desc": "Don't Tap the Glass",
-        "imagem": "../../public/vinil/dttg.jpg",
-        "valor": "4610,16"
+        "desc": "Kit Camiseta Básica Algodão (Cx c/ 50un)",
+        "imagem": "../../public/atacado/camiseta.jpg",
+        "valor": "890,00 $"
     },
     {
         "id": 2,
-        "desc": "IGOR",
-        "imagem": "../../public/vinil/igor.jpg",
-        "valor": "3714,98"
+        "desc": "Legging Fitness Suplex (Cx c/ 30un)",
+        "imagem": "../../public/atacado/legging.jpg",
+        "valor": "1250,00 $"
     },
     {
         "id": 3,
-        "desc": "WOLF",
-        "imagem": "../../public/vinil/wolf.jpg",
-        "valor": "2014,15"
+        "desc": "Conjunto Moletom Unissex (Cx c/ 24un)",
+        "imagem": "../../public/atacado/moletom.jpg",
+        "valor": "1680,00 $"
     },
     {
         "id": 4,
-        "desc": "Call Me If You Get Lost",
-        "imagem": "../../public/vinil/cmil.jpg",
-        "valor": "1168,61"
+        "desc": "Fone de Ouvido Bluetooth TWS (Cx c/ 100un)",
+        "imagem": "../../public/atacado/fone.jpg",
+        "valor": "2400,00 $"
     },
     {
         "id": 5,
-        "desc": "Chromakopia",
-        "imagem": "../../public/vinil/chorm.jpg",
-        "valor": "1887,76"
+        "desc": "Power Bank 10000mAh (Cx c/ 50un)",
+        "imagem": "../../public/atacado/powerbank.jpg",
+        "valor": "1975,00 $"
     },
     {
         "id": 6,
-        "desc": "Cherry Bomb",
-        "imagem": "../../public/vinil/bomb.jpg",
-        "valor": "1663,02"
+        "desc": "Capinha para Celular Silicone (Cx c/ 200un)",
+        "imagem": "../../public/atacado/capinha.jpg",
+        "valor": "980,00 $"
     },
     {
         "id": 7,
-        "desc": "Flower Boy",
-        "imagem": "../../public/vinil/flby.jpg",
-        "valor": "1348,40"
+        "desc": "Kit Maquiagem Completo (Cx c/ 40un)",
+        "imagem": "../../public/atacado/maquiagem.jpg",
+        "valor": "1560,00 $"
     },
     {
         "id": 8,
-        "desc": "slipknot ",
-        "imagem": "../../public/vinil/slpk.jpg",
-        "valor": "0"
+        "desc": "Perfume Contratipo 100ml (Cx c/ 60un)",
+        "imagem": "../../public/atacado/perfume.jpg",
+        "valor": "2150,00 $"
     },
     {
         "id": 9,
-        "desc": "Nobody Can Live Forever",
-        "imagem": "../../public/vinil/nclf.jpg",
-        "valor": "0"
+        "desc": "Semijoia Folheada a Ouro (Cx c/ 100un)",
+        "imagem": "../../public/atacado/semijoia.jpg",
+        "valor": "1740,00 $"
     },
     {
         "id": 10,
-        "desc": "DJavan LUZ",
-        "imagem": "../../public/vinil/luz.jpg",
-        "valor": "0"
+        "desc": "Brinco Bijuteria Sortida (Cx c/ 150un)",
+        "imagem": "../../public/atacado/brinco.jpg",
+        "valor": "890,00 $"
     },
     {
         "id": 11,
-        "desc": "QUEEN II",
-        "imagem": "../../public/vinil/queen2.jpg",
-        "valor": "0"
+        "desc": "Boneca Articulada 30cm (Cx c/ 24un)",
+        "imagem": "../../public/atacado/boneca.jpg",
+        "valor": "1320,00 $"
     },
     {
         "id": 12,
-        "desc": "AND.. JUSTICE FOR ALL",
-        "imagem": "../../public/vinil/ajfa.jpg",
-        "valor": "0"
+        "desc": "Carrinho de Controle Remoto (Cx c/ 20un)",
+        "imagem": "../../public/atacado/carrinho.jpg",
+        "valor": "1580,00 $"
     },
     {
         "id": 13,
-        "desc": "Operation Doomsday",
-        "imagem": "../../public/vinil/op.jpg",
-        "valor": "0"
+        "desc": "Kit Blocos de Montar (Cx c/ 36un)",
+        "imagem": "../../public/atacado/blocos.jpg",
+        "valor": "1150,00 $"
     },
     {
         "id": 14,
-        "desc": "Mm..Food",
-        "imagem": "../../public/vinil/mfo.jpg",
-        "valor": "0"
+        "desc": "Roupinha para Pet Sortida (Cx c/ 50un)",
+        "imagem": "../../public/atacado/petroupa.jpg",
+        "valor": "970,00 $"
     },
     {
         "id": 15,
-        "desc": "Madvillain",
-        "imagem": "../../public/vinil/mdv.jpg",
-        "valor": "0"
+        "desc": "Coleira e Guia para Pet (Cx c/ 60un)",
+        "imagem": "../../public/atacado/coleira.jpg",
+        "valor": "1080,00 $"
     },
     {
         "id": 16,
-        "desc": "DAMN",
-        "imagem": "../../public/vinil/damn.jpg",
-        "valor": "0"
+        "desc": "Organizador Multiuso Plástico (Cx c/ 40un)",
+        "imagem": "../../public/atacado/organizador.jpg",
+        "valor": "1240,00 $"
     },
     {
         "id": 17,
-        "desc": "Mr. Morale & the Big Steppers",
-        "imagem": "../../public/vinil/morale.jpg",
-        "valor": "0"
+        "desc": "Vela Aromática Decorativa (Cx c/ 48un)",
+        "imagem": "../../public/atacado/vela.jpg",
+        "valor": "860,00 $"
     },
     {
         "id": 18,
-        "desc": "Good Kid, M.A.A.D City",
-        "imagem": "../../public/vinil/gkmcty.jpg",
-        "valor": "0"
+        "desc": "Luminária LED USB (Cx c/ 50un)",
+        "imagem": "../../public/atacado/luminaria.jpg",
+        "valor": "1195,00 $"
     },
     {
         "id": 19,
-        "desc": "Good Kid, M.A.A.D City",
-        "imagem": "../../public/vinil/gkmcty2.jpg",
-        "valor": "0"
+        "desc": "Body para Bebê Algodão (Cx c/ 60un)",
+        "imagem": "../../public/atacado/body.jpg",
+        "valor": "1050,00 4"
     },
     {
         "id": 20,
-        "desc": "Graduation",
-        "imagem": "../../public/vinil/grda.jpg",
-        "valor": "0"
+        "desc": "Kit Chupeta e Mordedor (Cx c/ 80un)",
+        "imagem": "../../public/atacado/chupeta.jpg",
+        "valor": "780,00 $"
     },
     {
         "id": 21,
-        "desc": "My Beautiful Dark Twisted Fantasy",
-        "imagem": "../../public/vinil/fnsy.jpg",
-        "valor": "0"
+        "desc": "Caderno Universitário Capa Dura (Cx c/ 40un)",
+        "imagem": "../../public/atacado/caderno.jpg",
+        "valor": "920,00 $"
     },
     {
         "id": 22,
-        "desc": "Máquina do Tempo",
-        "imagem": "../../public/vinil/mdtmp.jpg",
-        "valor": "0"
-    },
-    {
-        "id": 23,
-        "desc": "The Dark Side of the Moon",
-        "imagem": "../../public/vinil/tdsm.jpg",
-        "valor": "0"
+        "desc": "Caneta Esferográfica Sortida (Cx c/ 500un)",
+        "imagem": "../../public/atacado/caneta.jpg",
+        "valor": "650,00 $"
     },
     {
         "id": 24,
-        "desc": "paranoid",
-        "imagem": "../../public/vinil/par.jpg",
-        "valor": "0"
+        "desc": "Suporte Veicular para Celular (Cx c/ 60un)",
+        "imagem": "../../public/atacado/suporte.jpg",
+        "valor": "1090,00 $"
     },
     {
         "id": 25,
-        "desc": "Abbey Road",
-        "imagem": "../../public/vinil/abby.jpg",
-        "valor": "0"
+        "desc": "Tapete Automotivo Universal (Cx c/ 20un)",
+        "imagem": "../../public/atacado/tapete.jpg",
+        "valor": "1420,00 $"
     }
 ]

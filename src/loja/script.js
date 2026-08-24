@@ -75,7 +75,7 @@ lenis.on('scroll', (e) => {
         head.color = `$rgb(${alpha},${alpha},${alpha})`
     }
     else{
-        head.style.backgroundColor = `rgba(7, 65, 14, 0.84)`;
+        head.style.backgroundColor = `rgba(214, 134, 14, 0.87)`;
         head.style.boxShadow = `4px 10px 0px rgb(0,0,0)`;
         head.color = `black`;
     }
